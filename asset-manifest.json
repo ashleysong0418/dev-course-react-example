@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ashleysong0418.github.io/dev-course-react-example/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ashleysong0418.github.io/dev-course-react-example/static/js/main.07b8d7f7.chunk.js",
-    "main.js.map": "/ashleysong0418.github.io/dev-course-react-example/static/js/main.07b8d7f7.chunk.js.map",
-    "runtime-main.js": "/ashleysong0418.github.io/dev-course-react-example/static/js/runtime-main.274e183e.js",
-    "runtime-main.js.map": "/ashleysong0418.github.io/dev-course-react-example/static/js/runtime-main.274e183e.js.map",
-    "static/js/2.1e3edca0.chunk.js": "/ashleysong0418.github.io/dev-course-react-example/static/js/2.1e3edca0.chunk.js",
-    "static/js/2.1e3edca0.chunk.js.map": "/ashleysong0418.github.io/dev-course-react-example/static/js/2.1e3edca0.chunk.js.map",
-    "static/js/3.9bbab760.chunk.js": "/ashleysong0418.github.io/dev-course-react-example/static/js/3.9bbab760.chunk.js",
-    "static/js/3.9bbab760.chunk.js.map": "/ashleysong0418.github.io/dev-course-react-example/static/js/3.9bbab760.chunk.js.map",
-    "index.html": "/ashleysong0418.github.io/dev-course-react-example/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/ashleysong0418.github.io/dev-course-react-example/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.1e3edca0.chunk.js.LICENSE.txt": "/ashleysong0418.github.io/dev-course-react-example/static/js/2.1e3edca0.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ashleysong0418.github.io/dev-course-react-example/static/media/logo.6ce24c58.svg"
+    "main.css": "/%3Cyour-repo-name%3E/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/%3Cyour-repo-name%3E/static/js/main.07b8d7f7.chunk.js",
+    "main.js.map": "/%3Cyour-repo-name%3E/static/js/main.07b8d7f7.chunk.js.map",
+    "runtime-main.js": "/%3Cyour-repo-name%3E/static/js/runtime-main.6036ce84.js",
+    "runtime-main.js.map": "/%3Cyour-repo-name%3E/static/js/runtime-main.6036ce84.js.map",
+    "static/js/2.1e3edca0.chunk.js": "/%3Cyour-repo-name%3E/static/js/2.1e3edca0.chunk.js",
+    "static/js/2.1e3edca0.chunk.js.map": "/%3Cyour-repo-name%3E/static/js/2.1e3edca0.chunk.js.map",
+    "static/js/3.9bbab760.chunk.js": "/%3Cyour-repo-name%3E/static/js/3.9bbab760.chunk.js",
+    "static/js/3.9bbab760.chunk.js.map": "/%3Cyour-repo-name%3E/static/js/3.9bbab760.chunk.js.map",
+    "index.html": "/%3Cyour-repo-name%3E/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/%3Cyour-repo-name%3E/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1e3edca0.chunk.js.LICENSE.txt": "/%3Cyour-repo-name%3E/static/js/2.1e3edca0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/%3Cyour-repo-name%3E/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.274e183e.js",
+    "static/js/runtime-main.6036ce84.js",
     "static/js/2.1e3edca0.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.07b8d7f7.chunk.js"
